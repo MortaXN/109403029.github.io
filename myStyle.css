@@ -11,21 +11,18 @@ div.Option ul {
 	background-color: white;
 	font-size: 20px;
 }
-
 div.Option li{
 	float: right;
 	padding-right: 50px;
 	padding-top: 30px;
 	padding-left: 10px;
 }
-
 div.Option li a {
 	display: block;
 	color: black;
 	text-align: center;
 	text-decoration: none;
 }
-
 div.Option li a:hover{
 	color: blue;
 }
@@ -42,4 +39,19 @@ div.Divider{
 
 div.BioText{
 	text-align: center;
+}
+
+div.CV{
+	overflow-x: auto;
+}
+div.CV table{
+	border-collapse: collapse;
+	width: 80%;
+}
+div.CV th, td{
+	text-align: left;
+	padding: 12px;
+}
+div.CV tr:nth-child(odd){
+	background-color: #F5F5F5;
 }
