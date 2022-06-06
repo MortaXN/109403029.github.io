@@ -2,3 +2,17 @@ div.Container{
 	width: 80%;
 	margin: auto;
 }
+
+div.Option li{
+	float: right;
+	padding-right: 50px;
+	padding-top: 30px;
+	padding-left: 10px;
+}
+
+div.Option li a {
+	display: block;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
