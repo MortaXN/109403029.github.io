@@ -3,6 +3,15 @@ div.Container{
 	margin: auto;
 }
 
+div.Option ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 5px;
+	overflow: hidden;
+	background-color: #90BBDC ;
+	font-size: 20px;
+}
+
 div.Option li{
 	float: right;
 	padding-right: 50px;
@@ -15,4 +24,8 @@ div.Option li a {
 	color: white;
 	text-align: center;
 	text-decoration: none;
+}
+
+div.Divider{
+	
 }
