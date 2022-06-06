@@ -27,5 +27,10 @@ div.Option li a {
 }
 
 div.Divider{
+	width: 80%;
+	height: 20%;
+	text-align: center;
+	font-size: 58px;
+	color: black;
 	
 }
