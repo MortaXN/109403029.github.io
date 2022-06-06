@@ -1,8 +1,9 @@
+/*To limit the size of webpage*/
 div.Container{
 	width: 80%;
 	margin: auto;
 }
-
+/*Create List for Home Button*/
 div.Option ul {
 	list-style-type: none;
 	margin: 0px;
@@ -23,6 +24,7 @@ div.Option li a {
 	text-align: center;
 	text-decoration: none;
 }
+/*effect when image is hovered*/
 div.Option li a:hover{
 	color: blue;
 }
@@ -41,6 +43,7 @@ div.BioText{
 	text-align: center;
 }
 
+/*Create Table for Information Purpose*/
 div.CV{
 	overflow-x: auto;
 }
