@@ -26,9 +26,8 @@ div.Option li a {
 	text-decoration: none;
 }
 
-div.Option li a:hover:not(.Logo a) {
+div.Option li a:hover{
 	color: blue;
-	font-weight: bold;
 }
 
 div.Divider{
